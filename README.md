@@ -32,7 +32,7 @@ I have given a task name master Practical.In this practical I have created the A
 - Filteration.
 
 ## Work Experience
--Overall my Experience doing this project I learned many libraries and functionalities and get to know proper ideas on how to add the item to the cart, functionality work, Pagination, Fetch data from JSON, variant Selection, etc.
+- Overall my Experience doing this project I learned many libraries and functionalities and get to know proper ideas on how to add the item to the cart, functionality work, Pagination, Fetch data from JSON, variant Selection, etc.
 - The challenging part where I am stuck in the functionality of add to cart, variant Selection.  
 
 
