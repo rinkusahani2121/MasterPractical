@@ -3,7 +3,7 @@
 
 ## Overview
 
-I have been given a task name master Practical. In this practical, I have created the Add cart item the practical and I have one Sample JSON data from which I have to fetch all the data of the product using Fetch API and manipulate it with the help of DOM. How to add the item to the bag, how to add the item to the wishlist using JSON data. The use of this practical is to get the proper Idea of how an E-commerce Website Work. I have the practicals in Mozilla, Microsoft Edge, and Chrome. In this practical pending part is dynamically add the item to bag and wishlist and filtration of data.
+I have been given a task name master Practical. In this practical, I have created the Add cart item in the practical and I have one Sample JSON data from which I have to fetch all the data of the product using Fetch API and manipulate it with the help of DOM. How to add the item to the bag, how to add the item to the wishlist using JSON data. The use of this practical is to get the proper Idea of how an E-commerce Website Work. I have the practicals in Mozilla, Microsoft Edge, and Chrome. In this practical pending part is dynamically add the item to bag and wishlist and filtration of data.
 ## Defination
  The E-commerce Website how it work and it functionality.
 
