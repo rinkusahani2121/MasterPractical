@@ -25,4 +25,8 @@ I have given a task name master Practical.In this practical I have created the A
 - Dynamically Functionality of add to card.
 - variant Selection.
 
+## Experience
+- Overall doing this project get the proper idea how add to card functionality work , Pagination, Fetch data from Json,etc.
+- The challenging part where I stuck is functionality of add to cart ,variant Selection.  
+
 
