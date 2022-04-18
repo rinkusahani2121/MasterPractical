@@ -10,9 +10,9 @@ I have given a task name master Practical.In this practical I have created the A
 
  ## Technology Used
  - HTML5 =  It uses for Structuring and Presenting content on WWW.
-- CSS3.
+- CSS3 = It is used to handle the presentation of the web page. It makes the website look attractive and beautiful.
 - Adobe Tools.
-- JavaScript.
+- JavaScript = It allows scripting on your website and makes it completely dynamic in nature. It provides front end scripting for your website and is a high-level dynamic interpreted programming language.
  ## Browser Tested 
  - Google Chrome.
  - Microsoft Edge.
