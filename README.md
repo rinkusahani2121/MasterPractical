@@ -12,7 +12,7 @@ I have given a task name master Practical.In this practical I have created the A
  - HTML5 =  It uses for Structuring and Presenting content on WWW.
 - CSS3 = It is used to handle the presentation of the web page. It makes the website look attractive and beautiful.
 - JavaScript = It allows scripting on your website and makes it completely dynamic in nature. It provides front end scripting for your website and is a high-level dynamic interpreted programming language.
-- Adobe Tools = It used for proper Structure how website look like.  
+- Adobe Tools = It used for proper Structure Design how website look like.  
  ## Browser Tested 
  - Google Chrome.
  - Microsoft Edge.
