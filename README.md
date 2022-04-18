@@ -17,6 +17,7 @@ I have given a task name master Practical.In this practical I have created the A
  ## Browser Tested 
   `Google Chrome.`
  `Microsoft Edge.`
+ `Firefox`
  
   ## Work Done
  - UI Design.
