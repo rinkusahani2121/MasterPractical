@@ -9,7 +9,7 @@ I have given a task name master Practical.In this practical I have created the A
  The E-commerce Website how it work and it functionality.
 
  ## Technology Used
- - HTML5.
+ - HTML5 =  It uses for Structuring and Presenting content on WWW.
 - CSS3.
 - Adobe Tools.
 - JavaScript.
