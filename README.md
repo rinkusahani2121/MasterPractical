@@ -22,8 +22,9 @@ I have given a task name master Practical.In this practical I have created the A
   ## Work Done
  - UI Design.
  - Pagination.
- - Fetch APi.
+ - Fetch json file.
  - static add to cart.
+ - Variant Selection.
 
  ## What is Pending
 - Dynamically Functionality of add to card.
