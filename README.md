@@ -11,6 +11,6 @@ I have given a task name master Practical.In this practical I have created the A
  Google Chrome and Microsoft Edge.
 
  ## pending
-Dynamically funcnality of add to card and pagination
+Dynamically funcnality of add to card and pagination.
 
 
