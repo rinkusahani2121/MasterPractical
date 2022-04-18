@@ -28,7 +28,7 @@ I have given a task name master Practical.In this practical I have created the A
 - variant Selection.
 
 ## Work Experience
-- Overall doing this project get the proper idea how add to card functionality work , Pagination, Fetch data from Json,etc.
+- Overall my Experience doing this project I learnt my thing libraries and functionalities and get to know proper idea how add to card functionality work , Pagination, Fetch data from Json,etc.
 - The challenging part where I stuck is functionality of add to cart ,variant Selection.  
 
 
