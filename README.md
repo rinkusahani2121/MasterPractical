@@ -15,8 +15,8 @@ I have given a task name master Practical.In this practical I have created the A
 - JavaScript = It allows scripting on your website and makes it completely dynamic in nature. It provides front end scripting for your website and is a high-level dynamic interpreted programming language.
 - Adobe Tools = It used for proper Structure Design how website look like.  
  ## Browser Tested 
-  `Google Chrome.`
- `Microsoft Edge.`
+  `Google Chrome`
+ `Microsoft Edge`
  `Firefox`
  
   ## Work Done
