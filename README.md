@@ -28,6 +28,7 @@ I have given a task name master Practical.In this practical I have created the A
 
  ## What is Pending
 - Dynamically Functionality of add to card.
+- Wishlist.
 
 
 ## Work Experience
