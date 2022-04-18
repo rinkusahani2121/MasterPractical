@@ -14,6 +14,12 @@ I have given a task name master Practical.In this practical I have created the A
  ## Browser Tested 
  - Google Chrome
  - Microsoft Edge.
+ 
+  ## Work Done
+ - UI Design.
+ - Pagination
+ - Fetch APi
+ - static add to cart
 
  ## What is Pending
 - Dynamically Functionality of add to card
