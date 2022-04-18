@@ -7,22 +7,22 @@ I have given a task name master Practical.In this practical I have created the A
  The E-commerce Website how it work and it functionality.
 
  ## Technology Used
- - HTML5
-- CSS3
-- Adobe Tools
+ - HTML5.
+- CSS3.
+- Adobe Tools.
 - JavaScript.
  ## Browser Tested 
- - Google Chrome
+ - Google Chrome.
  - Microsoft Edge.
  
   ## Work Done
  - UI Design.
- - Pagination
- - Fetch APi
- - static add to cart
+ - Pagination.
+ - Fetch APi.
+ - static add to cart.
 
  ## What is Pending
-- Dynamically Functionality of add to card
-- variant Selection
+- Dynamically Functionality of add to card.
+- variant Selection.
 
 
