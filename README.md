@@ -25,7 +25,7 @@ I have given a task name master Practical.In this practical I have created the A
 
  ## What is Pending
 - Dynamically Functionality of add to card.
-- variant Selection.
+
 
 ## Work Experience
 - Overall my Experience doing this project I learnt my thing libraries and functionalities and get to know proper idea how add to card functionality work , Pagination, Fetch data from Json,etc.
