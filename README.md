@@ -15,8 +15,8 @@ I have given a task name master Practical.In this practical I have created the A
  - Google Chrome
  - Microsoft Edge.
 
- ## pending
-- Dynamically funcnality of add to card
+ ## What is Pending
+- Dynamically Functionality of add to card
 - variant Selection
 
 
