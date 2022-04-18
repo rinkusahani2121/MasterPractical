@@ -7,7 +7,7 @@ I have given a task name master Practical.In this practical I have created the A
  The E-commerce Website how it work and it functionality.
 
  ## Technology Used
- - HTML
+ - HTML5
 - CSS3
 - Adobe Tools
 - JavaScript.
